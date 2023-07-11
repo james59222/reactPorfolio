@@ -1,10 +1,10 @@
 import React from "react";
-
+import Nav from "./nav";
 function Header() {
   return (
-    <div>
-      <h1>Hey guys! I'm a Header page!</h1>
-      
+    <div className="Header">
+      <h1>James Pierce</h1>
+     <Nav></Nav> 
     </div>
   );
 }
