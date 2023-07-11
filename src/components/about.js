@@ -1,4 +1,5 @@
 import React from "react";
+import image3 from "./myPic.jpg";
 //jsx uses className for class,inputs and images must be self closing <div style={{width: "100%"}}> <img src="http/pic"/>
 function About() {
   return (
@@ -6,8 +7,10 @@ function About() {
     <div>
       <br></br>
       <br></br>
+      <h1><img src={image3} alt="Github Logo" class="thumbnail2" height="200" width="200" /></h1>
       <h1>About Me</h1>
         <div class="aboutMe">
+        
     `   <p>
         <li>Motivated Engineer with solid experience managing all levels of large-scale projects, including installation, configuration, maintenance and alarming. </li>
 

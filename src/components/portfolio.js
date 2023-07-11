@@ -1,4 +1,6 @@
 import React from "react";
+import image from "./pawsClawstails.PNG";
+import image2 from "./sbc2.jpg";
 
 function Portfolio() {
   return (
@@ -6,9 +8,15 @@ function Portfolio() {
       
       <h2>Professional Portfolio</h2>
       <div class="wk2Challenge">
-      <br />
-      <br />
-        <a href="https://pawsclawstails.herokuapp.com/home/"><img src="src\components\pawsClawstails.PNG" alt= "Paws, Claws, and Tails" class="thumbnail" height="200" width="200"/></a>
+      
+      <br /><br />
+      <p>Animal Adoption</p>
+        <a href="https://pawsclawstails.herokuapp.com/home/"><img src={image} alt="Paws, Claws, and Tails" class="thumbnail" height="200" width="200" /></a>
+        <br />
+        <br />
+        <p>World Weather and Facts</p>
+        <a href="https://cameronoberlies.github.io/Realtime-Weather-and-Country-Facts"><img src={image2} alt="Paws, Claws, and Tails" class="thumbnail" height="200" width="200" /></a>
+
     </div>
 
     </div>
@@ -17,3 +25,32 @@ function Portfolio() {
 }
 
 export default Portfolio;
+// import React from "react";
+// // import MyComponent from "src\components\myComponent.js";
+// // function Portfolio() {
+// //   return (
+// //     <div>
+      
+// //       <h2>Professional Portfolio</h2>
+// //       <div class="wk2Challenge">
+// //       <br />
+// //       <br />
+// //         <a href="https://pawsclawstails.herokuapp.com/home/"><img src="src\components\pawsClawstails.PNG" alt= "Paws, Claws, and Tails" class="thumbnail" height="200" width="200"/></a>
+// //     </div>
+
+// //     </div>
+    
+// //   );
+// // }
+// const Portfolio = () => {
+//   return (
+//     <div class="wk2Challenge">
+//     <a href="https://pawsclawstails.herokuapp.com/home/">
+//       <img src="pawsClawstails.PNG" alt="Image" />
+//     </a>
+//     </div>
+//   );
+// };
+
+// // export default MyComponent;
+// export default Portfolio;
