@@ -4,7 +4,7 @@ import image2 from "./sbc2.jpg";
 
 function Portfolio() {
   return (
-    <div>
+    <div className="Portfolio">
       
       <h2>Professional Portfolio</h2>
       <div class="wk2Challenge">

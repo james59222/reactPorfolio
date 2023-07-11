@@ -2,11 +2,16 @@ import React from "react";
 
 function Resume() {
   return (
+   
+   
+       
+       <div class="resume">
     <div>
+    
       <br />
       <br />
-      <h1>Resume</h1>
-      <div class="resume">
+      
+      
       <h1>
       Professional Summary</h1>
       <br />
