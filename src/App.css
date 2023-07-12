@@ -50,9 +50,10 @@ li{
 
 }
 .Header {
-  background-color: aquamarine;width: 100%;height:100%;
+  background-color: aquamarine;width: 100%;height: 100%;
   font-size: large;
   font-family: "Roboto Slab";
+  justify-content: flex;
 }
 .aboutMe {
   background-color: #83c5be;width: 100%;height: 100%;
