@@ -15,6 +15,7 @@ function App() {
 <BrowserRouter>
 <Header></Header>
 <Routes>
+{/* Routes with default page set to about */}
 <Route path='/' element={<About/>}></Route>
 <Route path='/Portfolio' element={<Portfolio/>}></Route>
 <Route path='/Contact' element={<Contact/>}></Route>

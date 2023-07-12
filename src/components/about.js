@@ -1,7 +1,7 @@
 import React from "react";
 import image3 from "./myPic.jpg";
 //jsx uses className for class,inputs and images must be self closing <div style={{width: "100%"}}> <img src="http/pic"/>83c5be
-
+//About page with picture of portfolio owner and a paragraph of about me info.
 
 function About() {
   
@@ -10,7 +10,7 @@ function About() {
     <div>
       <br></br>
       <br></br>
-      <h1><img src={image3} alt="Github Logo" class="thumbnail2" height="300" width="300" /></h1>
+      <h1><img src={image3} alt="Portfolio owner Pic" class="thumbnail2" height="300" width="300" /></h1>
       <h1>About Me</h1>
         <div class="aboutMe">
         

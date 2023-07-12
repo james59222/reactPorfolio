@@ -1,6 +1,7 @@
 import React from "react";
 import image from "./githubLogo.png";
 import image2 from "./linkedInLogo.png";
+//links to linkein and github
 function Footer() {
   return (
     <div className ="Footer">
