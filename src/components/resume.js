@@ -18,7 +18,7 @@ function Resume() {
       <br />
       <p>
       <li><a href="https://docs.google.com/document/d/1OxElcuinwj9unx8tFdHDDIphNohJLmbu/edit?usp=drive_link&ouid=109495509348376953104&rtpof=true&sd=true
-">Click to download resume</a></li>
+">Click to download Resume</a></li>
 <ul>Motivated Engineer with solid experience managing all levels of large-scale projects, including installation, configuration, maintenance and alarming. Worked to maximize uptime on network devices through performance monitoring on data centers, local operations hubs, and LTE tower equipment. Experienced Engineer with strong leadership and relationship-building skills.</ul>
 <br />
       <br />
