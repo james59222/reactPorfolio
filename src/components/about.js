@@ -1,5 +1,6 @@
 import React from "react";
 import image3 from "./myPic.jpg";
+import "@fontsource/roboto-slab"; // Defaults to weight 400
 //jsx uses className for class,inputs and images must be self closing <div style={{width: "100%"}}> <img src="http/pic"/>83c5be
 //About page with picture of portfolio owner and a paragraph of about me info.
 

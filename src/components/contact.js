@@ -1,5 +1,5 @@
 import React from "react";
-
+import "@fontsource/roboto-slab"; // Defaults to weight 400
 
 function Contact() {
   

@@ -9,6 +9,7 @@ import Portfolio from './components/portfolio';
 import Project from './components/project';
 import Resume from './components/resume';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
+import "@fontsource/roboto-slab"; // Defaults to weight 400
 function App() {
   return (
     <div className="App">
