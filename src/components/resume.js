@@ -3,6 +3,8 @@ import "@fontsource/roboto-slab"; // Defaults to weight 400
 //Resume and link to download
 function Resume() {
   return (
+    <div class="resumeTitle">
+      <h1>Resume</h1>
    <div class="resume">
     <div>
       <br />
@@ -39,6 +41,7 @@ Tarrant County College District - Fort Worth , TX</ul>
 
     </p>
       </div>
+    </div>
     </div>
     
   );
